@@ -1,7 +1,9 @@
-### Hi there 👋
+# YoonSung Park
+
+![Logo](assets/profile-logo.png)
 
 <!--
-**YoonSung-Park/YoonSung-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YoonSung-Park/YoonSung-Park**s `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
