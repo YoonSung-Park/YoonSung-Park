@@ -1,6 +1,6 @@
 # YoonSung Park
 
-![Logo](assets/profile-logo.png)
+![Logo](assets/profile-logo.jpg)
 
 <!--
 **YoonSung-Park/YoonSung-Park**s `README.md` (this file) appears on your GitHub profile.
